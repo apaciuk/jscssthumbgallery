@@ -2,6 +2,8 @@
 Javascript Thumb Gallery using CSS Grid for layout.
 Fade in/Fade out on images
 No external libraries.
+### Demo
+http://burly-drum.surge.sh/
 
 ### ToDo
 

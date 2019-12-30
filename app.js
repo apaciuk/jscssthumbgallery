@@ -1,5 +1,4 @@
 /*jslint browser:true */
-//const [current, imgs] = [document.querySelector('#current'), document.querySelectorAll('.imgs img')];
 const current = document.querySelector("#current");
 const thumbs = document.querySelectorAll(".thumbs img");
 const opacity = 0.6;
