@@ -9,7 +9,9 @@ https://confident-shaw-6cfbae.netlify.com/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a1fc0d0f-fe86-46af-ae35-db7d0048e09e/deploy-status)](https://app.netlify.com/sites/confident-shaw-6cfbae/deploys)
 
-### Repo https://github.com/xhostcom/jscssthumbgallery.git
+### Repo 
+
+https://github.com/xhostcom/jscssthumbgallery.git
 
 ### ToDo
 
@@ -19,7 +21,15 @@ Add Titles and Description
 
 Paul Anthony McGowan
 
+## Author URL
+
 https://xhostcom.com
+
+## FAQ
+
+Q: Is this normal?
+
+A: Yes, this is perfectly normal
 
 ### Version
 
